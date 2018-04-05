@@ -1,3 +1,3 @@
 # directed-acyclic-graph
 
-javac dag.java && java Dag
+javac Dag.java && java Dag
